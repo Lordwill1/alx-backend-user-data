@@ -221,3 +221,9 @@ This project contains tasks for learning to create a user authentication service
         log_in(EMAIL, NEW_PASSWD)
     ```
   + Run `python3 main.py`. If everything is correct, you should see no output.
+     
+
+## RESOURCES
++ [x] [Flask documentation](https://intranet.alxswe.com/rltoken/lKExyvivrrW4eh0eI8UV6A)
++ [x] [Requests module](https://intranet.alxswe.com/rltoken/py7LuuD1u2MUwcaf8wnDzQ)
++ [x] [HTTP status codes](https://intranet.alxswe.com/rltoken/cj-mc5ZHp_KyXn1yikHC0A)  
