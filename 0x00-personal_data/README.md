@@ -77,3 +77,10 @@ This project contains tasks for learning to protect a user's personal data.
     + `hashed_password`: `bytes` type.
     + `password`: `str` type.
   + Use bcrypt to validate that the provided password matches the hashed password.
+     
+## RESOURCES
+
++ [x] [What Is PII, non-PII, and Personal Data?](https://intranet.alxswe.com/rltoken/jf71oYqiETchcVhPzQVnyg)
++ [x] [logging documentation](https://intranet.alxswe.com/rltoken/W2JiHD6cbJY1scJORyLqnw)
++ [x] [bcrypt package](https://intranet.alxswe.com/rltoken/41oaQXfzwnF1i-wT8W0vHw)
++ [x] [Logging to Files, Setting Levels, and Formatting](https://intranet.alxswe.com/rltoken/XCpI9uvguxlTCsAeRCW6SA)   
