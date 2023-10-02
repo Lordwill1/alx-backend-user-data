@@ -145,6 +145,8 @@ This project contains tasks for learning to authenticate a user through session 
   + Update [api/v1/app.py](api/v1/app.py) to instantiate `auth` with `SessionDBAuth` if the environment variable `AUTH_TYPE` is equal to `session_db_auth`.
 
 
+
+
 ## RESOURCES
 
 + [x] [REST API Authentication Mechanisms - Only the session auth part](https://intranet.alxswe.com/rltoken/oofk0VhuS0ZFZTNTVrQeaQ)
