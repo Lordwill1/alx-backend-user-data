@@ -143,3 +143,11 @@ This project contains tasks for learning to authenticate a user through session 
     + Overload `def user_id_for_session_id(self, session_id=None):` that returns the User ID by requesting `UserSession` in the database based on `session_id`.
     + Overload `def destroy_session(self, request=None):` that destroys the `UserSession` based on the Session ID from the request cookie.
   + Update [api/v1/app.py](api/v1/app.py) to instantiate `auth` with `SessionDBAuth` if the environment variable `AUTH_TYPE` is equal to `session_db_auth`.
+
+
+## RESOURCES
+
++ [x] [REST API Authentication Mechanisms - Only the session auth part](https://intranet.alxswe.com/rltoken/oofk0VhuS0ZFZTNTVrQeaQ)
++ [x] [HTTP Cookies](https://intranet.alxswe.com/rltoken/peLV8xuJ4PDJMOVFqk-d2g)
++ [x] [Flask](https://intranet.alxswe.com/rltoken/AI1tFR5XriGfR8Tz7YTYQA)
++ [x] [Flask Cookies](https://intranet.alxswe.com/rltoken/QYfI5oW6OHUmHDzwKV1Qsw) 
